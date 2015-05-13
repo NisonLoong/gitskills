@@ -1,4 +1,4 @@
 # gitskills
 There are some skill about the git.
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
 
